@@ -1,5 +1,7 @@
 # Self-Hosted AI Automation & RAG Stack
 
+> **Status: reference guide, not a runnable repo.** This is written documentation for a local, Docker-based AI/RAG setup — the `docker-compose.yml` and configs described below aren't committed here yet. Use it as a build plan and adapt the compose file to your own environment.
+
 Local, free, Docker-based platform for **AI agents, automations, and RAG systems**.
 
 This repository documents a **restart-safe, non-breakable** setup using only open-source components. Everything runs locally via Docker. No cloud dependencies. No paid services.
